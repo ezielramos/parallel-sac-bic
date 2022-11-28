@@ -6,6 +6,10 @@
 | :-----------------------: | :------------------------------: | :-------: |
 |    Eziel C. Ramos Piñón   |     ezielramos498@gmail.com      |   C-512   |
 
+## Tutor
+
+    Evaristo José Madarro Capó
+
 ## Implementación y Ejecución
 
 ### Implementación
