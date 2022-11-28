@@ -8,7 +8,7 @@
 
 ## Tutor
 
-    Evaristo José Madarro Capó
+|    Evaristo José Madarro Capó  |
 
 ## Implementación y Ejecución
 
